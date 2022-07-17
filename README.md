@@ -16,9 +16,9 @@ I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, e
 
 
 ### 🔭 I’m working on these projects
-
 - Projects for friends and family.
 - Growing [CRUD sites](https://www.crudallday.com) to 100k/month visitors.
+- Opeen to collaborating on open-source projects
 
 ### 🌱 I’m learning
 
