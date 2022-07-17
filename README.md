@@ -1,7 +1,6 @@
 ## Hello there 👋
 
-I am a fullstack .NET web developer here to help you and your company deliver digital assets and values to your clients.
-I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
+I am a .NET web developer focusing on delivering secured digital assets and values without sacrificing performance. I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
 
 **I am currently working with**
 
