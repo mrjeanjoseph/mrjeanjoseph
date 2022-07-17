@@ -10,7 +10,7 @@ I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, e
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black)
-![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black)
 
 
 
