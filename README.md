@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
-I use C#/.NET, JS/TS, and Angular to help you and your company make business and technological decision. I am passionate about everything metaverse related; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
+I am a fullstack C#/.NET web developer here to help you and your company deliver digital assets and values to your client. I am passionate about everything metaverse related; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
 
 **I am currently working with**
 
@@ -14,10 +14,10 @@ I use C#/.NET, JS/TS, and Angular to help you and your company make business and
 
 
 
-### 🔭 I’m working on
+### 🔭 I’m working on these projects
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Projects for friends and family.
+- Growing [CRUD sites](https://www.crudallday.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
 
@@ -29,7 +29,7 @@ I use C#/.NET, JS/TS, and Angular to help you and your company make business and
 
 ### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
+- Web applications and API models integration
 
 ### 📫 How to reach me
 
@@ -47,4 +47,4 @@ I use C#/.NET, JS/TS, and Angular to help you and your company make business and
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'm definitely rooting for Dyson Sphere concepts.
