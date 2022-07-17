@@ -48,4 +48,4 @@ I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, e
 
 ### ⚡ Fun fact
 
-I'm definitely rooting for Dyson Sphere concepts.
+I've been rooting for the Dyson Sphere concepts.
