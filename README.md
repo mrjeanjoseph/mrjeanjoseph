@@ -1,6 +1,7 @@
 ## Hello there 👋
 
-I am a fullstack C#/.NET web developer here to help you and your company deliver digital assets and values to your client. I am passionate about everything metaverse related; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
+I am a fullstack C#/.NET web developer here to help you and your company deliver digital assets and values to your clients.
+I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
 
 **I am currently working with**
 
@@ -38,7 +39,7 @@ I am a fullstack C#/.NET web developer here to help you and your company deliver
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/mrjeanjoseph">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.hackerrank.com/fjeanjoseph">
     <img src="https://img.shields.io/badge/Hackerrank-12100E?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/>
