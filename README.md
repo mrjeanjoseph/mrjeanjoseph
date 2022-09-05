@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a .NET web developer focusing on delivering secured digital assets and values without sacrificing performance. I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (you'll never hear the end of it).🕺🏽
+I am a .NET web developer focusing on delivering secured digital assets and values without sacrificing performance. I am passionate about everything metaverse; web3, blockchain, bitcoin, crypto, ethereum and blah blah blah (about enough to get both of us confused).🕺🏽
 
 **I am currently working with**
 
@@ -30,6 +30,7 @@ I am a .NET web developer focusing on delivering secured digital assets and valu
 ### 🤔 I’m looking for help with
 
 - Web applications and API models integration
+- DevOps concepts
 
 ### 📫 How to reach me
 
@@ -46,5 +47,4 @@ I am a .NET web developer focusing on delivering secured digital assets and valu
 </div>
 
 ### ⚡ Fun fact
-
-The Dyson Sphere concept is inevitable in my opinion.
+We are very close to implementing the Dyson Sphere concept
