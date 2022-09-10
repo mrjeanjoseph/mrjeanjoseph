@@ -47,4 +47,4 @@ I am a .NET web developer focusing on delivering secured digital assets and valu
 </div>
 
 ### ⚡ Fun fact
-We are very close to implementing the Dyson Sphere concept
+We're much closer to implementing the Dyson Sphere concept than we think.
