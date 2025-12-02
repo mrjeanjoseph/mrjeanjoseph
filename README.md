@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a .NET Software Engineer; building and maintaining IT solution to solve our everyday challenges.
+I am a .NET Software Engineer; building and maintaining IT solution to solve everyday challenges.
 
 **I currently work with**
 
@@ -15,7 +15,7 @@ I am a .NET Software Engineer; building and maintaining IT solution to solve our
 
 - Review open-source projects on GitHub and rewrite/upgrade them to .NET8/.NET10.
 - Deploying apps on Azure Cloud on F1 Plan and Azure SQL DBs using DevTestLabs.
-- Outside of working on [these projects](https://mrjeanjoseph.github.io/), I am listen to my kids' never ending stories about roblox and slap battles.
+- Outside of working on [these projects](https://mrjeanjoseph.github.io/projects), listening to my kids' never ending stories about roblox and slap battles.
 
 ### 🌱 I’m learning
 
