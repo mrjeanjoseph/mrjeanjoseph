@@ -21,7 +21,6 @@ I am a .NET Software Engineer; building and maintaining IT solution to solve eve
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
 </div>
@@ -29,7 +28,7 @@ I am a .NET Software Engineer; building and maintaining IT solution to solve eve
 ### 🤔 I’m looking for help with
 
 - Web applications and API models integration
-- DevOps concepts
+- Integrating AI assistance into WebApp
 
 ### ⚡ Fun fact
 
